@@ -32,9 +32,9 @@ module.exports = {
     // URLs
     LOGIN_URL: "https://stexsms.com/mauth/login",
     TARGET_URL: "https://stexsms.com/mdashboard/getnum",
-    BOT_USERNAME_LINK: "https://t.me/myzuraisgoodbot", // Sesuaikan jika perlu
-    GROUP_LINK_1: "https://t.me/+E5grTSLZvbpiMTI1",
-    GROUP_LINK_2: "https://t.me/zura14g",
+    BOT_USERNAME_LINK: "https://t.me/ivaskucok_bot", // Sesuaikan jika perlu
+    GROUP_LINK_1: "https://t.me/+HXtygAXZGtFkZTc1",
+    GROUP_LINK_2: "https://t.me/",
 
     // Settings
     OTP_PRICE: 0.003500,
